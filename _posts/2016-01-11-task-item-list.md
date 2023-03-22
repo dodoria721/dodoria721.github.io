@@ -18,6 +18,6 @@ Source:
 Rendered:
 
 - [x] Eating
-- [ ] Walking
+- [x] Walking
   - [ ] Running
 - [ ] Sleeping
