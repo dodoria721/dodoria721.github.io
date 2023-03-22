@@ -1,8 +1,8 @@
-title: Kim Dowon
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: DW.log
+description: My coding diary
+author: Kim Dowon
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: dodoria721@naver.com
 
 plugins:
   - jekyll-seo-tag
@@ -38,6 +38,6 @@ social:
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/dodoria721/OSS-World
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
