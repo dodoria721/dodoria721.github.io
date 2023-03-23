@@ -1,5 +1,3 @@
-2023-03-23-my-first-post.md
-
 ---
 layout: post
 toc: true
