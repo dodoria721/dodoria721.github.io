@@ -3,10 +3,8 @@
 ---
 layout: post
 toc: true
-title: Calculation for python
+title: Calculation
 tags: [Python]
-author:
-  - Kim Dowon
 ---
 
 ## 백준 1000번 A+B
