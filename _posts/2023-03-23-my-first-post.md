@@ -1,7 +1,7 @@
 ---
 layout: post
-title: C study Hello world!
-tags: [c 언어]
+title: Hello world!
+tags: [C]
 ---
 
 
