@@ -4,6 +4,7 @@ title: Hello world!
 tags: [C]
 ---
 
+코딩을 공부 하는 사람으로써 'Hello world'는 적어도 한번은 출력 해줘야 한다.
 
 ```
 #incldue <stdio.h>
@@ -16,5 +17,3 @@ int main()
   
  }
  ```
-
-코딩을 공부 하는 사람으로써 'Hello world'는 적어도 한번은 출력 해줘야 한다.
