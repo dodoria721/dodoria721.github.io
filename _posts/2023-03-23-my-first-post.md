@@ -1,5 +1,9 @@
-Hello world!
-======
+---
+layout: post
+title: Hello world!
+tags: [c 언어]
+---
+
 
 ```
 #incldue <stdio.h>
