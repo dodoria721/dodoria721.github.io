@@ -1,8 +1,9 @@
 ---
 layout: post
 toc: true
-title: Calculation
-tags: [Python]
+title: "Calculation"
+author:
+  - Kim Dowon
 ---
 
 ## 백준 1000번 A+B
