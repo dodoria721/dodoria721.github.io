@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Calculation
+title: 사칙연산
 tags: [Python]
 author:
   - Kim Dowon
