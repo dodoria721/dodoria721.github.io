@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Calculation"
+title: Calculation
 author:
   - Kim Dowon
 ---
