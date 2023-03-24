@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title: Calculation
+tags: [Python]
 author:
   - Kim Dowon
 ---
