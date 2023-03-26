@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title: 초콜릿 쪼개기
+categories: study
 tags: [Python]
 author:
   - Kim Dowon
