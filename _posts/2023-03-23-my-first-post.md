@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello world!
+categories: study
 tags: [C]
 author:
   - Kim Dowon
