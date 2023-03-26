@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title: 연산 순서
+categories: study
 tags: [Python]
 author:
   - Kim Dowon
