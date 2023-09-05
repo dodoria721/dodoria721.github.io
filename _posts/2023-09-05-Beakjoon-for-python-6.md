@@ -8,6 +8,8 @@ author:
   - Kim Dowon
 ---
 
+## 백준 1009 분산처리
+```
 import sys
 input = sys.stdin.readline
 
@@ -33,3 +35,4 @@ for _ in range(T):
             print((a**4) % 10)
         else:
             print((a**b) % 10)
+```
