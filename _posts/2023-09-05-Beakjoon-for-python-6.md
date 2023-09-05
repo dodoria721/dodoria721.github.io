@@ -9,6 +9,8 @@ author:
 ---
 
 ## 백준 1009번 분산처리
+
+
 ```
 import sys
 input = sys.stdin.readline
